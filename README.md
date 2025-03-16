@@ -19,7 +19,7 @@ This microservice handles job applications for vacancies, allowing users to subm
 ## Installation and Setup
 ### 1. Clone the Repository
 ```sh
- git clone https://github.com/solachat/vacancy-microservice.git
+ git clone https://github.com/solachat/vacancy-service.git
  cd vacancy-microservice
 ```
 
