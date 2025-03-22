@@ -113,5 +113,5 @@ docker run -p 5000:5000 --env-file .env vacancy-microservice
 ---
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GPL v3 License.
 
